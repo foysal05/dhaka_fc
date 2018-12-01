@@ -32,6 +32,9 @@
                             <a href="player"><i class="fa fa-users fa-fw"></i> Player</a>
                         </li>
                         <li>
+                            <a href="staff"><i class="fa fa-users fa-fw"></i> Staff</a>
+                        </li>
+                        <li>
                             <a href="tables.html"><i class="fa fa-table fa-fw"></i> Tables</a>
                         </li>
                         <li>
